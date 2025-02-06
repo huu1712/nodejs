@@ -1,0 +1,27 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huu1712/nodejs.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs"
+  ],
+  "author": "huutc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huu1712/nodejs/issues"
+  },
+  "homepage": "https://github.com/huu1712/nodejs#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
